@@ -121,6 +121,7 @@ ul {
 }
 
 .rodape__links__navegacao {
+    gap: 2px;
     display: flex;
     justify-content: center;
     text-align: center;
